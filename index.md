@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Tiruchirapalli - NIT
+title: OWASP NIT - Tiruchirapalli
 tags: example-tag
 region: Asia
 
